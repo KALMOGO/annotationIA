@@ -1,3 +1,3 @@
 # annotationIA
 
-ai system for emotion within an audio
+ai system for emotion analysing
